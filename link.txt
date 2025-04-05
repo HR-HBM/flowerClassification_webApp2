@@ -1,0 +1,5 @@
+https://labex.io/tutorials/javascript-deploying-mobilenet-with-tensorflow-js-and-flask-298849
+
+https://github.com/mariagrandury/image-classification-web-app
+
+https://www.codementor.io/@chidoziemanagwu880043/how-to-build-a-simple-image-classification-api-using-tensorflow-and-flask-2n84de1nt0
